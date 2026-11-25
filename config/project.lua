@@ -1,5 +1,5 @@
 -- project definitions
-NAME = "gcp-gemini-cli"
+NAME = "gcp-gemini"
 DESCRIPTION_SHORT = "Talk to gemini"
 KEYWORDS = {
     "gcp",

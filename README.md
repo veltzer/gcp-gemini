@@ -1,3 +1,3 @@
-# gcp-gemini-cli
+# gcp-gemini
 
 Talk to gemini
